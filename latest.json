@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.15",
+  "versionCode": 17,
+  "versionName": "0.1.16",
   "minSdk": 26,
-  "apkUrl": "https://github.com/lpoulter1/fpl-tools-android-releases/releases/download/v0.1.15/fpl-tools-0.1.15.apk",
-  "sha256": "0cb65109a9bbaefb943a6cb4cf3165891c8900c510fc1eeb04531bed60222598",
+  "apkUrl": "https://github.com/lpoulter1/fpl-tools-android-releases/releases/download/v0.1.16/fpl-tools-0.1.16.apk",
+  "sha256": "e63f352e483751afeb1c32be62a349cdc844b47f43aa81ec23ae8e5f4fcfedec",
   "size": 15535487
 }
